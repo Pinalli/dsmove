@@ -9,5 +9,4 @@ public class DsmoveApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DsmoveApplication.class, args);
 	}
-
 }
