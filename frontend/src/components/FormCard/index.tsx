@@ -32,7 +32,7 @@ function FormCard({ movieId }: Props) {
 
       if ( !validateEmail(email)) {
         return;
-        console.log("Tipo de email inválido");
+       
     }
 
     const config: AxiosRequestConfig = {
