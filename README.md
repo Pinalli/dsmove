@@ -16,7 +16,6 @@
 * Netlify (frontend) https://www.netlify.com/
 ---
 ## Aplicação
-https://pinallidsmovie.netlify.app/
+[Acesse o link](https://pinallidsmovie.netlify.app)
 
-
-![ds](https://user-images.githubusercontent.com/18580532/150578757-f37e4ca1-fcb3-4aff-ad4e-d0218df77125.png)
+![ds](https://user-images.githubusercontent.com/18580532/150580503-f1443bfd-e417-48c0-8a73-9e5361ed64d8.png)
