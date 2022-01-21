@@ -17,3 +17,6 @@
 ---
 ## Aplicação
 https://pinallidsmovie.netlify.app/
+
+
+![ds](https://user-images.githubusercontent.com/18580532/150578757-f37e4ca1-fcb3-4aff-ad4e-d0218df77125.png)
