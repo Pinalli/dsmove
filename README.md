@@ -1,4 +1,5 @@
-# dsmovie
+# dsmovie :desktop_computer:
+
 ---
 ## Aplicação Web para avaliação de filmes
 ---
