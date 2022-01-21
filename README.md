@@ -14,3 +14,6 @@
 ## Build e Deploy
 * Heroku (backend) https://id.heroku.com/
 * Netlify (frontend) https://www.netlify.com/
+---
+## Aplicação
+https://pinallidsmovie.netlify.app/
