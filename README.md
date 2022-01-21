@@ -13,10 +13,10 @@
 * [Figma](https://www.figma.com/) 
 ---
 ## Build e Deploy
-*  [Heroku](https://id.heroku.com/) (backend) 
+* [Heroku](https://id.heroku.com/) (backend) 
 * [Netlify](https://www.netlify.com/) (frontend) 
 ---
 ## Aplicação
-[Acesse o link](https://pinallidsmovie.netlify.app)
+[Acesse o link](https://pinallidsmovie.netlify.app)<br>
 
 ![ds](https://user-images.githubusercontent.com/18580532/150580503-f1443bfd-e417-48c0-8a73-9e5361ed64d8.png)
