@@ -10,11 +10,11 @@
 * Node
 ---
 ## Prototipagem das Interfaces
-* Figma https://www.figma.com/
+* [Figma](https://www.figma.com/) 
 ---
 ## Build e Deploy
-* Heroku (backend) https://id.heroku.com/
-* Netlify (frontend) https://www.netlify.com/
+*  [Heroku](https://id.heroku.com/) (backend) 
+* [Netlify](https://www.netlify.com/) (frontend) 
 ---
 ## Aplicação
 [Acesse o link](https://pinallidsmovie.netlify.app)
