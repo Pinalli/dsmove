@@ -10,7 +10,7 @@
 * Node
 ---
 ## Prototipagem das Interfaces
-* [Figma](https://www.figma.com/) 
+* [Figma](https://www.figma.com/file/hpQuzpGHq2MmrI87xnfMoT/DSMovie1?node-id=0%3A1) 
 ---
 ## Build e Deploy
 * [Heroku](https://id.heroku.com/) (backend) 
