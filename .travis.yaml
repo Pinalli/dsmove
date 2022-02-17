@@ -1,0 +1,13 @@
+language: typescript, java
+
+java:
+  - 11
+
+typescript:
+  -4.4
+
+
+before_script:
+  - composer install --no-interaction
+
+script:
